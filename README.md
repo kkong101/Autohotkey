@@ -1,12 +1,12 @@
 # Autohotkey
-오토핫키 공부  
 
 
-### `본 코드는 개인공부 목적이며, 게임에 악용 또는 배포하지 않았음을 알려드립니다.` 
+### ※ `본 코드는 개인공부 목적이며, 게임에 악용 또는 배포하지 않았음을 알려드립니다.` 
+-----------------------
 ## `현재 UI 등이 많이 바뀌어서 작동하지 않습니다. `
 ## `작동에 필요한 이미지 파일은 업로드 하지 않았습니다.` 
 
-
+-------------------------
 
 # 블루스택 기반 라이즈오브킹덤즈 모바일 게임 자동화 
 + 비활성화 상태에서 마우스, 키보드 제어
@@ -17,7 +17,11 @@
 + Detect한 X,Y 좌표 로그 저장
 
 
-[구현 화면 보기](https://blog.naver.com/PostView.nhn?blogId=aflhzv&Redirect=View&logNo=222390376114&categoryNo=24&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=5527)
+
+--------------------------------
 
 
+[**실행 동영상 보기(네이버 블로그)**](https://blog.naver.com/PostView.nhn?blogId=aflhzv&Redirect=View&logNo=222390376114&categoryNo=24&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=5527)
+
+-------------------------
 
