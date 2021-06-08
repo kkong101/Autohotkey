@@ -17,7 +17,7 @@
 + Detect한 X,Y 좌표 로그 저장
 
 
-
+[구현 화면 보기](https://blog.naver.com/PostView.nhn?blogId=aflhzv&Redirect=View&logNo=222390376114&categoryNo=24&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=5527)
 
 
 
